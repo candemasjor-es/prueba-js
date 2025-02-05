@@ -1,0 +1,19 @@
+body {
+    background-color: rgba(191, 191, 197, 0.795);
+    color: rgb(253, 253, 253);
+    align-items: center;
+}
+section ´{
+    width: auto;
+}
+article {
+    background-color: #f2f2f2;
+    padding: 20px;
+    width: 800px;
+    align-items: center;
+    color: black;
+    border-radius: 20px;
+}
+#numero{
+    font-size: 20px;
+}
