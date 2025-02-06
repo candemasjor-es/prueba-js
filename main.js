@@ -17,3 +17,4 @@ function botonSumar() {
 }
 elementoBotonAgredar.addEventListener('click', botonAgredar);
 elementoBotonSumar.addEventListener(`click`, botonSumar);
+console.log('hola prueba como estas')
